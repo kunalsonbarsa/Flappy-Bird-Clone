@@ -1,6 +1,16 @@
 # Flappy Bird Clone
 
-A Flappy Bird style game built with Python and Pygame.
+**Name:** MANSI SAHU
+**Class/Section:** M
+**ERP / Roll Number:** RU-26-01854
+**PS No.:** 54
+**University:** Rungta International Skills University
+
+---
+
+## Project Description
+
+A Flappy Bird style game built with Python and Pygame. The player controls a bird that must fly through gaps between moving pipes without touching them, the ground, or the top of the screen. The project also includes test cases that check the game logic.
 
 ## Features
 
@@ -10,7 +20,7 @@ A Flappy Bird style game built with Python and Pygame.
 - Game Over when the bird hits a pipe, the ground, or the top of the screen.
 - Press R after Game Over to restart.
 
-## Requirements
+## Libraries Required
 
 - Python 3
 - pygame-ce
@@ -21,10 +31,11 @@ pip install pygame-ce
 
 pygame-ce is a maintained version of Pygame. It is used in the code with `import pygame`, so no code change is needed.
 
-## How to Run
+## Steps to Run
 
-1. Open the `Code` folder in a terminal.
-2. Run:
+1. Install the library: `pip install pygame-ce`
+2. Open the `Code` folder in a terminal.
+3. Run:
 
 ```
 python main.py
